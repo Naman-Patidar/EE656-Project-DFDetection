@@ -1,7 +1,7 @@
 # DeepFake Detection using ISTVT (Interpretable Spatio-Temporal Video Transformer)
 
 This repository contains an implementation of the **ISTVT** deepfake detection model based on the paper:  
-**"Interpretable Spatio-Temporal Video Transformer for DeepFake Detection" (CVPR 2022)** 
+**"Interpretable Spatio-Temporal Video Transformer for DeepFake Detection" ** 
 
 ---
 
